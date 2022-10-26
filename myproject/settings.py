@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-y!2-v%axl&gbmw#@b2##0_fv$-38*&-5rd*hd31#9nzt-j4@5x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://neecat-blogapp.herokuapp.com']
+ALLOWED_HOSTS = ['neecat-blogapp.herokuapp.com']
 
 
 
